@@ -1,2 +1,1 @@
-# alx-low_level_programming
-Alx c programming
+Anything can be inputed
