@@ -1,1 +1,1 @@
-Anything can be inputed
+Any thing can be inputed
